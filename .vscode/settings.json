@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "iosfwd": "cpp",
+        "new": "cpp",
+        "ios": "cpp",
+        "string": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "vector": "cpp",
+        "__bit_reference": "cpp",
+        "__hash_table": "cpp",
+        "__string": "cpp",
+        "__tree": "cpp",
+        "map": "cpp",
+        "string_view": "cpp",
+        "unordered_map": "cpp",
+        "algorithm": "cpp",
+        "initializer_list": "cpp",
+        "cstdio": "cpp",
+        "__locale": "cpp",
+        "filesystem": "cpp"
+    },
+    "codetogether.virtualCursorJoin": "ownVirtualCursor"
+}
